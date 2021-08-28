@@ -3,5 +3,6 @@
 
 void main()
 {
+	// Print welcome information
     std::cout<< "Hello, wolrd";
 }
